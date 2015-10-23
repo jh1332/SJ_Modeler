@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 52dccad60bca80d448301e6de2f11b61
+timeCreated: 1444628144
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Arm2
+    100004: Arm3
+    100006: Arm4
+    100008: Bodewy
+    100010: //RootNode
+    100012: Dummy001
+    100014: Ear1
+    100016: Ear2
+    100018: Eye1
+    100020: Eye1_2
+    100022: EyeBow1
+    100024: EyeBow1_2
+    100026: Foot1
+    100028: Foot2
+    100030: Head
+    100032: Horn1
+    100034: Horn2
+    100036: Jaw
+    100038: Leg1
+    100040: Leg2
+    100042: Tail1
+    100044: Tail2
+    100046: Teath1
+    100048: Teath2
+    100050: Teath3
+    100052: Teath4
+    100054: Wing1
+    100056: Wing2
+    400000: Arm1
+    400002: Arm2
+    400004: Arm3
+    400006: Arm4
+    400008: Bodewy
+    400010: //RootNode
+    400012: Dummy001
+    400014: Ear1
+    400016: Ear2
+    400018: Eye1
+    400020: Eye1_2
+    400022: EyeBow1
+    400024: EyeBow1_2
+    400026: Foot1
+    400028: Foot2
+    400030: Head
+    400032: Horn1
+    400034: Horn2
+    400036: Jaw
+    400038: Leg1
+    400040: Leg2
+    400042: Tail1
+    400044: Tail2
+    400046: Teath1
+    400048: Teath2
+    400050: Teath3
+    400052: Teath4
+    400054: Wing1
+    400056: Wing2
+    2300000: Arm1
+    2300002: Arm2
+    2300004: Arm3
+    2300006: Arm4
+    2300008: Bodewy
+    2300010: Ear1
+    2300012: Ear2
+    2300014: Eye1
+    2300016: Eye1_2
+    2300018: EyeBow1
+    2300020: EyeBow1_2
+    2300022: Foot1
+    2300024: Foot2
+    2300026: Head
+    2300028: Horn1
+    2300030: Horn2
+    2300032: Jaw
+    2300034: Leg1
+    2300036: Leg2
+    2300038: Tail1
+    2300040: Tail2
+    2300042: Teath1
+    2300044: Teath2
+    2300046: Teath3
+    2300048: Teath4
+    2300050: Wing1
+    2300052: Wing2
+    3300000: Arm1
+    3300002: Arm2
+    3300004: Arm3
+    3300006: Arm4
+    3300008: Bodewy
+    3300010: Ear1
+    3300012: Ear2
+    3300014: Eye1
+    3300016: Eye1_2
+    3300018: EyeBow1
+    3300020: EyeBow1_2
+    3300022: Foot1
+    3300024: Foot2
+    3300026: Head
+    3300028: Horn1
+    3300030: Horn2
+    3300032: Jaw
+    3300034: Leg1
+    3300036: Leg2
+    3300038: Tail1
+    3300040: Tail2
+    3300042: Teath1
+    3300044: Teath2
+    3300046: Teath3
+    3300048: Teath4
+    3300050: Wing1
+    3300052: Wing2
+    4300000: Bodewy
+    4300002: Arm1
+    4300004: Arm2
+    4300006: Arm3
+    4300008: Arm4
+    4300010: Head
+    4300012: EyeBow1_2
+    4300014: EyeBow1
+    4300016: Jaw
+    4300018: Teath4
+    4300020: Teath3
+    4300022: Teath1
+    4300024: Teath2
+    4300026: Ear2
+    4300028: Ear1
+    4300030: Horn2
+    4300032: Horn1
+    4300034: Eye1
+    4300036: Eye1_2
+    4300038: Tail2
+    4300040: Tail1
+    4300042: Wing1
+    4300044: Wing2
+    4300046: Leg2
+    4300048: Foot2
+    4300050: Leg1
+    4300052: Foot1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bodewy
+        weight: 1
+      - path: Bodewy/Arm1
+        weight: 1
+      - path: Bodewy/Arm1/Arm2
+        weight: 1
+      - path: Bodewy/Arm3
+        weight: 1
+      - path: Bodewy/Arm3/Arm4
+        weight: 1
+      - path: Bodewy/Head
+        weight: 1
+      - path: Bodewy/Head/Ear1
+        weight: 1
+      - path: Bodewy/Head/Ear2
+        weight: 1
+      - path: Bodewy/Head/Eye1
+        weight: 1
+      - path: Bodewy/Head/Eye1_2
+        weight: 1
+      - path: Bodewy/Head/EyeBow1
+        weight: 1
+      - path: Bodewy/Head/EyeBow1_2
+        weight: 1
+      - path: Bodewy/Head/Horn1
+        weight: 1
+      - path: Bodewy/Head/Horn2
+        weight: 1
+      - path: Bodewy/Head/Jaw
+        weight: 1
+      - path: Bodewy/Head/Jaw/Teath3
+        weight: 1
+      - path: Bodewy/Head/Jaw/Teath4
+        weight: 1
+      - path: Bodewy/Head/Teath1
+        weight: 1
+      - path: Bodewy/Head/Teath2
+        weight: 1
+      - path: Bodewy/Leg1
+        weight: 1
+      - path: Bodewy/Leg1/Foot1
+        weight: 1
+      - path: Bodewy/Leg2
+        weight: 1
+      - path: Bodewy/Leg2/Foot2
+        weight: 1
+      - path: Bodewy/Tail2
+        weight: 1
+      - path: Bodewy/Tail2/Tail1
+        weight: 1
+      - path: Bodewy/Wing1
+        weight: 1
+      - path: Bodewy/Wing2
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

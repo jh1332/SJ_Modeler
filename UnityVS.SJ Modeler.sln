@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SJ Modeler.CSharp.Plugins", "UnityVS.SJ Modeler.CSharp.Plugins.csproj", "{087F242D-A390-1254-F9A4-B1AF9C76AE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SJ Modeler.CSharp", "UnityVS.SJ Modeler.CSharp.csproj", "{0B281F52-8E80-6B70-C8C6-390E751DA80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SJ Modeler.CSharp.Editor", "UnityVS.SJ Modeler.CSharp.Editor.csproj", "{A6F56080-67A8-C0A0-5488-F58243C9B94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087F242D-A390-1254-F9A4-B1AF9C76AE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087F242D-A390-1254-F9A4-B1AF9C76AE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087F242D-A390-1254-F9A4-B1AF9C76AE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087F242D-A390-1254-F9A4-B1AF9C76AE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B281F52-8E80-6B70-C8C6-390E751DA80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B281F52-8E80-6B70-C8C6-390E751DA80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B281F52-8E80-6B70-C8C6-390E751DA80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B281F52-8E80-6B70-C8C6-390E751DA80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F56080-67A8-C0A0-5488-F58243C9B94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F56080-67A8-C0A0-5488-F58243C9B94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F56080-67A8-C0A0-5488-F58243C9B94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F56080-67A8-C0A0-5488-F58243C9B94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
